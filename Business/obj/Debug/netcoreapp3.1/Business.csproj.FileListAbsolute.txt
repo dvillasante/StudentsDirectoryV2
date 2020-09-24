@@ -1,0 +1,15 @@
+C:\Users\dvillasante\source\repos\StudentsDirectory\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\dvillasante\source\repos\StudentsDirectory\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\dvillasante\source\repos\StudentsDirectory\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\dvillasante\source\repos\StudentsDirectory\Business\bin\Debug\netcoreapp3.1\Context.dll
+C:\Users\dvillasante\source\repos\StudentsDirectory\Business\bin\Debug\netcoreapp3.1\Models.dll
+C:\Users\dvillasante\source\repos\StudentsDirectory\Business\bin\Debug\netcoreapp3.1\Repositories.dll
+C:\Users\dvillasante\source\repos\StudentsDirectory\Business\bin\Debug\netcoreapp3.1\Models.pdb
+C:\Users\dvillasante\source\repos\StudentsDirectory\Business\bin\Debug\netcoreapp3.1\Repositories.pdb
+C:\Users\dvillasante\source\repos\StudentsDirectory\Business\bin\Debug\netcoreapp3.1\Context.pdb
+C:\Users\dvillasante\source\repos\StudentsDirectory\Business\obj\Debug\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\dvillasante\source\repos\StudentsDirectory\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\dvillasante\source\repos\StudentsDirectory\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\dvillasante\source\repos\StudentsDirectory\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\dvillasante\source\repos\StudentsDirectory\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\dvillasante\source\repos\StudentsDirectory\Business\obj\Debug\netcoreapp3.1\Business.pdb
